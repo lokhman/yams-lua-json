@@ -3,7 +3,7 @@ package json
 import (
 	"testing"
 
-	"github.com/yuin/gopher-lua"
+	"github.com/lokhman/yams-lua"
 )
 
 func TestSimple(t *testing.T) {

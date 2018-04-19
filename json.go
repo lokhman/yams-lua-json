@@ -5,7 +5,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/yuin/gopher-lua"
+	"github.com/lokhman/yams-lua"
 )
 
 // Preload adds json to the given Lua state's package.preload table. After it
